@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 職務経歴
+sidebar_link: true
 ---
 
 ## 株式会社CAMPFIRE (2019/2 ~ 現在)

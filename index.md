@@ -5,6 +5,5 @@
   - [twitter](https://twitter.com/moritanzania)
   - [LinkedIn](https://www.linkedin.com/in/yusuke-morita-779742170)
 
-# その他
-
+- [学歴・生い立ち](/upbringing.md)
 - [職務経歴](/work_experience.md)

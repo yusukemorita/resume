@@ -6,7 +6,8 @@ sidebar_link: true
 
 ## 正社員
 
-- [株式会社CAMPFIRE (2019/2 ~ 現在)](/resume/work_experiences/campfire)
+- [株式会社Progate (2020/6 ~ 現在)](/resume/work_experiences/progate)
+- [株式会社CAMPFIRE (2019/2 ~ 2020/6)](/resume/work_experiences/campfire)
 - [株式会社ビズリーチ (2018/4 ~ 2019/2)](/resume/work_experiences/bizreach)
 
 ## 学生長期インターン

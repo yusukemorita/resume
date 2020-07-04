@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 株式会社CAMPFIRE (2019/2 ~ 現在)
+title: 株式会社CAMPFIRE (2019/2 ~ 2020/6)
 ---
 
 ## プロジェクトA: モバイルアプリのサーバーサイド開発

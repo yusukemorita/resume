@@ -14,4 +14,4 @@ sidebar_link: true
 
 - [AKI TENNIS株式会社 (2017/11~2018/3)](/resume/work_experiences/aki_tennis)
 - [株式会社ピクスタ (2017/7~2017/11)](/resume/work_experiences/pixta)
-- [株式会社サイトビジット (2016/11~2017/07)](/resume/work_experiences/sight_visit)
+- [株式会社サイトビジット (2016/11~2017/7)](/resume/work_experiences/sight_visit)

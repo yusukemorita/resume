@@ -5,7 +5,7 @@ title: Home
 
 # 基本情報
 
-![プロフィール画像](./profile_photo.jpg "プロフィール画像")
+<img src="./profile_photo.jpg" alt="プロフィール画像" title="プロフィール画像" style="float:right;width:200px;">
 
 - 氏名
   - 森田裕祐 (Yusuke Morita)
